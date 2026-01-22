@@ -1,2 +1,2 @@
 # -CONVERSE-SHOES
-This is code has nothing much is just show casing that I can create my own website beautiful by just knowing the fundamental of HTML5 and CSS 
+This simple code is just show casing that I can create a beautiful website by just applying the fundamental of HTML5 and CSS 
